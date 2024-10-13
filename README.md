@@ -5,7 +5,6 @@ Saída de dados
 Laços Condicionais
 Laços de Repetição
 
-
 - desafio 2 - Elabore um algoritmo que leia 10 números inteiros e armazene em um vetor. Em seguida, mostre na tela:
 Todos os elementos nos índices ímpares do vetor 
 Todos os elementos do vetor que são números pares
