@@ -22,7 +22,6 @@ programa {
           escreva(lista[i], ", ")
       }
     }
-  
     inteiro i = 0
     enquanto(i < 10){
       soma = soma + lista[i]
